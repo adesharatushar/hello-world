@@ -13,3 +13,6 @@ Adding feature1
 Adding feature2
 
 Adding feature3
+
+
+And some more bug fixes.
